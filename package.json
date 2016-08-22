@@ -1,0 +1,21 @@
+{
+  "name": "environment_setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "author": "Davide Guida",
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/mizrael/typescript_environment_setup.git",
+    "type": "git"
+  },
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-typescript": "^2.13.6",
+    "gulp-webserver": "^0.9.1",
+    "typings": "^1.3.2"
+  }
+}

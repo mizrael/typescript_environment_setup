@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.ts"],"names":[],"mappings":"AAAA;IAAA;IAIA,CAAC;IAHU,iBAAG,GAAV;QACI,MAAM,CAAC,mBAAmB,CAAC;IAC/B,CAAC;;IACL,UAAC;AAAD,CAJA,AAIC,IAAA","file":"app.js","sourceRoot":"/source/","sourcesContent":["class Foo{\n    public Bar():String{\n        return \"lorem ipsum dolor\";\n    };\n}"]}
