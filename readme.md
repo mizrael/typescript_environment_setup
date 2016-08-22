@@ -1,3 +1,7 @@
+# Introduction
+This repo will serve as a template for a basic project structure for Typescript apps.
+It will use Gulp to watch the /src/ folder, transpile the .ts files into .js and run a lite web server.
+
 # Prerequisites
 * execute the following commands:
 ```
@@ -34,8 +38,8 @@ npm install gulp-sourcemaps --save-dev
 * edit the package.json file and set gulpfile.js as "main" (if you didn't it during npm init)
 
 ```
-"main": "gulpfile.js":
+"main": "gulpfile.js"
 ```
 
 # Run the build task
-    cmd + shift + b
+in Visual Studio Code (on Mac): cmd + shift + b
